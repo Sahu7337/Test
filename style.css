@@ -1,4 +1,4 @@
-<style>
+
         :root {
             /* Fullscreen proportions */
             --card-width: 47vw;
@@ -156,4 +156,3 @@
                 --font-size: min(75vw, 36vh);
             }
         }
-    </style>
